@@ -1,0 +1,33 @@
+/*Texts*/
+.text-small {
+  font-size: 1.25rem;
+}
+
+.text-medium {
+  font-size: 1.5rem;
+}
+
+.text-big {
+  font-size: 1.75rem;
+}
+
+/*Colors*/
+.bg-dark {
+  background: #d5dbdb;
+}
+
+.bg-light {
+  background: #f8f9f9;
+}
+
+/*Button*/
+.btn {
+  padding: 10px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #f8f9f9;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
